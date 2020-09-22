@@ -3,7 +3,7 @@ This repository contains test for the Codecool project named: Grand Hotel Codeco
 
 This project was written in a 1 week iteration to test the functionalities of a hotel room booking site, called Grand Hotel Codecool.
 
-The project was in an early stage, with only a few pages like:
+The project was in an early stage, with only a few pages:
 - main page
 - reservation page
 - login page
